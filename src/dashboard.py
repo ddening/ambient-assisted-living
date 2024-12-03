@@ -11,7 +11,7 @@ import seaborn as sns
 import re
 import copy
 
-data_cleaned_dir = "../data/aruba/data_cleaned.csv"
+data_cleaned_dir = "./data/aruba/data_cleaned.csv"
 
 df_aruba = pd.read_csv(
     data_cleaned_dir,
