@@ -6,7 +6,7 @@
 		"context": "..",
 		"dockerfile": "Dockerfile"
 	},
-	"postCreateCommand": "pip install -r requirements.txt",
+	"postCreateCommand": "pip install -r requirements.txt ; python /workspaces/ambient-assisted-living/src/adtk_patcher.py",
 	"customizations": {
 		"vscode": {
 			"extensions": [
