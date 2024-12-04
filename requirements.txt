@@ -1,3 +1,4 @@
+adtk
 dash
 pandas
 ydata-profiling
