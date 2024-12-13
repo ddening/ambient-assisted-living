@@ -1,4 +1,5 @@
 adtk
 dash
 pandas
+statsmodels
 ydata-profiling
