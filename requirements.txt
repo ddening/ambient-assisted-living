@@ -1,5 +1,6 @@
 adtk
 dash
 pandas
+pmdarima
 statsmodels
 ydata-profiling
